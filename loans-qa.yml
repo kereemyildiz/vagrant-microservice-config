@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Vagrant Bank loans related QA APIs "
+  contactDetails:
+    name: "Ali Kerem Yildiz - Developer QA"
+    email: "aky_qa@vagrant.com"
+  onCallSupport:
+    - (222) 555-1234
+    - (222) 523-1345

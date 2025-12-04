@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Vagrant Bank accounts related PROD APIs "
+  contactDetails:
+    name: "Ali Kerem Yildiz - Developer PROD"
+    email: "aky_prod@vagrant.com"
+  onCallSupport:
+    - (111) 555-1234
+    - (111) 523-1345

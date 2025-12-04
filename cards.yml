@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Vagrant Bank cards related local APIs "
+  contactDetails:
+    name: "Ali Kerem Yildiz - Developer"
+    email: "aky@vagrant.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (333) 523-1345
