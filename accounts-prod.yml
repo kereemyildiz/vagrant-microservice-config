@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Vagrant Bank accounts related PRODUCTION APIs "
+  message: "Welcome to Vagrant Bank accounts related PROD_ APIs "
   contactDetails:
     name: "Ali Kerem Yildiz - Developer PROD"
     email: "{cipher}6e1f7b7f6b9914055b7ac75d64700fbf6d074c69b7ac8a560ead90a6ddce2e77c685ecf47ed5911f3e42ce0d73fbbae1"
