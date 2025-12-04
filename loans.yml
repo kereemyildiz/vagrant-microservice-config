@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Vagrant Bank loans related local APIs "
+  message: "Welcome to Vagrant Bank loans related local_ APIs "
   contactDetails:
     name: "Ali Kerem Yildiz - Developer"
     email: "aky@vagrant.com"
