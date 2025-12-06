@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Vagrant Bank loans related PROD_ APIs "
+  message: "Welcome to Vagrant Bank loans related PROD__ APIs "
   contactDetails:
     name: "Ali Kerem Yildiz - Developer PROD"
     email: "aky_prod@vagrant.com"
