@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Vagrant Bank cards related QA APIs "
+  message: "Welcome to Vagrant Bank cards related QA webhook APIs "
   contactDetails:
     name: "Ali Kerem Yildiz - Developer QA"
     email: "aky_qa@vagrant.com"
