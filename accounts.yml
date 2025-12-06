@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Vagrant Bank accounts related local APIs "
+  message: "Welcome to Vagrant Bank accounts related local__ APIs "
   contactDetails:
     name: "Ali Kerem Yildiz - Developer"
     email: "aky@vagrant.com"
