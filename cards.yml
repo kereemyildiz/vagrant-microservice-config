@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Vagrant Bank cards related local APIs "
+  message: "Welcome to Vagrant Bank cards related local__ APIs "
   contactDetails:
     name: "Ali Kerem Yildiz - Developer"
     email: "aky@vagrant.com"
